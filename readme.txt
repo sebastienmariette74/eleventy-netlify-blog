@@ -3,7 +3,7 @@ layout: layouts/base.njk
 permalink : /readme
 ---
 
-## Création d'un blog avec ELEVENTY et NETLIFYCMS
+# Création d'un blog avec ELEVENTY et NETLIFYCMS
 
 - création du répertoire
 - ligne de commande :
@@ -24,6 +24,11 @@ permalink : /readme
 - création du fichier base.njk dans _includes/layouts
 - création du fichier index.njk à la racine
 
+## crétion du cms avec NETLIFY
+
+- crétion du fichier admin/index.html
+
+https://www.netlifycms.org/docs/add-to-your-site/
 
 
 
